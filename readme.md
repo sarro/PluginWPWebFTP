@@ -38,6 +38,8 @@ Explorador SFTP integrado en WordPress con autenticación de usuario WP.
 
 
 
+
+
 \## Instalación
 
 Plugins → Añadir nuevo → Subir plugin → selecciona el ZIP
