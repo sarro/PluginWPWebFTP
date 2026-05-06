@@ -46,6 +46,8 @@ Explorador SFTP integrado en WordPress con autenticación de usuario WP.
 
 | v2.3.8 | arsys-webftp_v2.3.8.zip | Fix detección y descarga automática desde GitHub |
 
+| v2.3.9 | arsys-webftp_v2.3.9.zip | Release de prueba — verificación ciclo completo de actualización automática |
+
 
 
 
