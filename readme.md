@@ -24,6 +24,7 @@ Explorador SFTP integrado en WordPress con autenticación de usuario WP.
 | v2.3.9 | arsys-webftp_v2.3.9.zip | Release de prueba — verificación ciclo completo de actualización automática |
 | v2.4.0 | arsys-webftp_v2.4.0.zip | Fix: aviso de actualización persiste tras actualizar |
 | v2.4.1 | arsys-webftp_v2.4.1.zip | Fix aviso actualización persistente — updater restaurado a versión estable |
+| v2.4.2 | arsys-webftp_v2.4.2.zip | Fix aviso actualización persistente — versión instalada forzada en transient |
 
 
 <<<<<<< HEAD
@@ -60,6 +61,8 @@ Explorador SFTP integrado en WordPress con autenticación de usuario WP.
 | v2.4.0 | arsys-webftp_v2.4.0.zip | Fix: aviso de actualización persiste tras actualizar |
 
 | v2.4.1 | arsys-webftp_v2.4.1.zip | Fix aviso actualización persistente — updater restaurado a versión estable |
+
+| v2.4.2 | arsys-webftp_v2.4.2.zip | Fix aviso actualización persistente — versión instalada forzada en transient |
 
 
 
