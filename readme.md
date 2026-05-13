@@ -29,6 +29,7 @@ Explorador SFTP integrado en WordPress con autenticación de usuario WP.
 | v2.5.0 | arsys-webftp_v2.5.0.zip | Seguridad: cifrado AES-256-CBC de credenciales + soporte clave privada SSH |
 | v2.5.1 | arsys-webftp_v2.5.1.zip | Seguridad: rate limiting login — bloqueo 15min tras 5 intentos fallidos |
 | v2.5.2 | arsys-webftp_v2.5.2.zip | Release de demo — verificación sistema de actualización automática |
+| v2.5.3 | arsys-webftp_v2.5.3.zip | Seguridad: headers HTTP de seguridad + rotación de token de sesión |
 
 
 <<<<<<< HEAD
@@ -75,6 +76,8 @@ Explorador SFTP integrado en WordPress con autenticación de usuario WP.
 | v2.5.1 | arsys-webftp_v2.5.1.zip | Seguridad: rate limiting login — bloqueo 15min tras 5 intentos fallidos |
 
 | v2.5.2 | arsys-webftp_v2.5.2.zip | Release de demo — verificación sistema de actualización automática |
+
+| v2.5.3 | arsys-webftp_v2.5.3.zip | Seguridad: headers HTTP de seguridad + rotación de token de sesión |
 
 
 
