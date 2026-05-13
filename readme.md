@@ -33,6 +33,7 @@ Explorador SFTP integrado en WordPress con autenticación de usuario WP.
 | v2.5.4 | arsys-webftp_v2.5.4.zip | Seguridad: validación MIME/extensiones en subidas (desactivada por defecto, configurable) |
 | v2.5.5 | arsys-webftp_v2.5.5.zip | Seguridad: límite edición archivos + timeout búsqueda (desactivados por defecto, configurables) |
 | v2.6.0 | arsys-webftp_v2.6.0.zip | Mejoras: breadcrumb clickable, chmod y copiar archivos |
+| v2.6.1 | arsys-webftp_v2.6.1.zip | Selección múltiple, resaltado de sintaxis CodeMirror y pestaña Info del plugin |
 
 
 <<<<<<< HEAD
@@ -87,6 +88,8 @@ Explorador SFTP integrado en WordPress con autenticación de usuario WP.
 | v2.5.5 | arsys-webftp_v2.5.5.zip | Seguridad: límite edición archivos + timeout búsqueda (desactivados por defecto, configurables) |
 
 | v2.6.0 | arsys-webftp_v2.6.0.zip | Mejoras: breadcrumb clickable, chmod y copiar archivos |
+
+| v2.6.1 | arsys-webftp_v2.6.1.zip | Selección múltiple, resaltado de sintaxis CodeMirror y pestaña Info del plugin |
 
 
 
