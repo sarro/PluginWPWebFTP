@@ -39,6 +39,7 @@ Explorador SFTP integrado en WordPress con autenticación de usuario WP.
 | v2.6.4 | arsys-webftp_v2.6.4.zip | Fix: botón guardar seguridad no funcionaba sin sesión WebFTP activa |
 | v2.7.0 | arsys-webftp_v2.7.0.zip | Internacionalización (i18n): 8 idiomas — EN, DE, ES, IT, FR, JA, EU, CA |
 | v2.7.1 | arsys-webftp_v2.7.1.zip | Fix crítico: compatibilidad PHP 7.4 — eliminados union types de PHP 8 |
+| v2.7.2 | arsys-webftp_v2.7.2.zip | Fix crítico: sintaxis PHP inválida en class-sftp-manager.php |
 
 
 <<<<<<< HEAD
@@ -105,6 +106,8 @@ Explorador SFTP integrado en WordPress con autenticación de usuario WP.
 | v2.7.0 | arsys-webftp_v2.7.0.zip | Internacionalización (i18n): 8 idiomas — EN, DE, ES, IT, FR, JA, EU, CA |
 
 | v2.7.1 | arsys-webftp_v2.7.1.zip | Fix crítico: compatibilidad PHP 7.4 — eliminados union types de PHP 8 |
+
+| v2.7.2 | arsys-webftp_v2.7.2.zip | Fix crítico: sintaxis PHP inválida en class-sftp-manager.php |
 
 
 
