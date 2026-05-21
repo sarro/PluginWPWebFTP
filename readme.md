@@ -42,6 +42,7 @@ Explorador SFTP integrado en WordPress con autenticación de usuario WP.
 | v2.7.2 | arsys-webftp_v2.7.2.zip | Fix crítico: sintaxis PHP inválida en class-sftp-manager.php |
 | v2.7.3 | arsys-webftp_v2.7.3.zip | Fix crítico: PHP anidado en class-admin-page.php |
 | v2.7.4 | arsys-webftp_v2.7.4.zip | Info del plugin: tabla de idiomas soportados y selector de idioma |
+| v2.7.5 | arsys-webftp_v2.7.5.zip | Release de demo — verificación actualización automática |
 
 
 <<<<<<< HEAD
@@ -114,6 +115,8 @@ Explorador SFTP integrado en WordPress con autenticación de usuario WP.
 | v2.7.3 | arsys-webftp_v2.7.3.zip | Fix crítico: PHP anidado en class-admin-page.php |
 
 | v2.7.4 | arsys-webftp_v2.7.4.zip | Info del plugin: tabla de idiomas soportados y selector de idioma |
+
+| v2.7.5 | arsys-webftp_v2.7.5.zip | Release de demo — verificación actualización automática |
 
 
 
